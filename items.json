@@ -1,0 +1,115 @@
+{
+    "products":[
+        {
+            "image":"./images/pic-1.png",
+            "name":"Cropped Stay Groovy off white",
+            "rate":"$10.90",
+            "orRate":"or 9 x$1.21",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-2.png",
+            "name":"Basic Cactus White T-shirt",
+            "rate":"$13.25",
+            "orRate":"or 3 x$4.42",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-3.png",
+            "name":"Skater Black Sweatshirt",
+            "rate":"$25.90",
+            "orRate":"or 12 x$2.16",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-4.png",
+            "name":"Black Tule Oversized",
+            "rate":"$29.45",
+            "orRate":"or 5 x$5.89",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-5.png",
+            "name":"Black Batman T-shirt",
+            "rate":"$10.90",
+            "orRate":"or 9 x$1.21",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-6.png",
+            "name":"Blue T-Shirt",
+            "rate":"$9.00",
+            "orRate":"or 12 x$2.16",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-7.png",
+            "name":"Loose Black T-shirt",
+            "rate":"$14.00",
+            "orRate":"or 5 x$2.80",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-8.png",
+            "name":"Ringer Hall Pass",
+            "rate":"$10.90",
+            "orRate":"or 9 x$1.21",
+            "button":"Add to Cart"
+        }, {
+            "image":"./images/pic-9.png",
+            "name":"Grey T-shirt",
+            "rate":"$14.90",
+            "orRate":"or 7 x$2.13",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-10.png",
+            "name":"Black T-shirt with white stripes",
+            "rate":"$14.90",
+            "orRate":"or 7 x$2.13",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-11.png",
+            "name":"Turtles Ninja T-shirt",
+            "rate":"$10.90",
+            "orRate":"or 9 x$1.21",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-12.png",
+            "name":"Slim black T-shirt",
+            "rate":"$49.90",
+            "orRate":"",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-13.png",
+            "name":"Blue Sweatshirt",
+            "rate":"$22.50",
+            "orRate":"or 4 x$5.63",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-14.png",
+            "name":"White T-shirt Gucci",
+            "rate":"$18.70",
+            "orRate":"or 4 x$4.67",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-15.png",
+            "name":"Tropical Wine T-shirt",
+            "rate":"$134.90",
+            "orRate":"or 5 x$26.98",
+            "button":"Add to Cart"
+        },
+        {
+            "image":"./images/pic-16.png",
+            "name":"Marine Blue T-shirt",
+            "rate":"$49.00",
+            "orRate":"or 9 x$5.44",
+            "button":"Add to Cart"
+        }
+    ]
+}

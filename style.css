@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.square{
+    height:70px;
+    width:70px;
+    background-color: black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.git-icon{
+    font-size: 25px;
+}
+.emptySpace{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 30px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-par-box{
+    background-color: black;
+    height:70px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.addTocart{
+    font-size: 30px;
+}
+.circle-position{
+   height:15px;
+   width: 15px;
+   border-radius: 50%;
+   background-color: rgb(241, 188, 89);
+   position: absolute;
+   top:70%;
+   left:60%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.leftsec{
+    background-color: white ;
+    border: 5px solid white;
+}
+.rightsec{
+    background-color: white;
+    height: auto;
+}
+.right-prod{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+.anker-but{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.siz{
+    height:40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;  
+}
+.siz:hover{
+    border: 2px solid black;
+}
+.para-lines{
+    margin-top: 10px;
+}
+.anker-tag{
+    color: blueviolet;
+}
+.button-btn{
+    background-color: black;
+    border: none;
+    color: white;
+    width: 100%;
+    height:50px;
+    font-size: 25px;
+}
+.button-btn:hover{
+   background-color: rgb(255, 255, 6);
+   color: black;
+}
+.card-body{
+    text-align: center;
+}
+.price{
+    font-weight: bolder;
+}
+.orRate{
+    color: gray;
+    font-weight: bolder;
+}
+.main-parent-box{
+    background-color: black;
+    height:70px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.addtocart{
+    font-size: 30px;
+}
+.circle-Position{
+   height:15px;
+   width: 15px;
+   border-radius: 50%;
+   background-color: rgb(241, 188, 89);
+   position: absolute;
+   top:70%;
+   left:60%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.bodie{
+    background-color: black;
+}
+#Tot_cart_ItemS{
+    background-image: linear-gradient(rgb(146, 142, 142),rgb(255, 0, 212), rgb(204, 204, 79));
+}
+.sq-2{
+    background-color: chartreuse;    
+}
+.card-main:hover{
+    border: 2px solid black;
+    cursor: grab;
+}
+.next-page{
+    text-decoration: none;
+    color: white;
+}
